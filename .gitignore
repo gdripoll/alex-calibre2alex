@@ -87,3 +87,11 @@ ENV/
 
 # Rope project settings
 .ropeproject
+.idea/alex-calibre2alex.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+autor.py
+calibre2alex.py
+pruebas/
+pruebas_ori/
